@@ -15,6 +15,7 @@ export { Column } from './Column/Column';
 export { Columns } from './Columns/Columns';
 export { Divider } from './Divider/Divider';
 export { Dropdown } from './Dropdown/Dropdown';
+export { Expander } from './Expander/Expander';
 export { FieldLabel } from './FieldLabel/FieldLabel';
 export { FieldMessage } from './FieldMessage/FieldMessage';
 export { Heading } from './Heading/Heading';
